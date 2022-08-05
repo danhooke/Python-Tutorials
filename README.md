@@ -2,7 +2,7 @@
 Collection of Python tutorials I have done
 
 Using Matplotlib to create figures to a specified style e.g.
-from this useful tutorial: https://earth-env-data-science.github.io/assignments/more_matplotlib.html
+from this useful [Earth and Environmental Data Science](https://earth-env-data-science.github.io/assignments/more_matplotlib.html "Earth and Environmental Data Science") tutorial.
 
 
 Target Figure:
