@@ -1,7 +1,7 @@
 # tutorials
-Collection of Python tutorials I have done
+Code from Python tutorials focussed on climate change data sets.
 
-Using Matplotlib to create figures to a specified style e.g.
+Most recent involved using Matplotlib to create figures to a specified style e.g.
 from this useful [Earth and Environmental Data Science](https://earth-env-data-science.github.io/assignments/more_matplotlib.html "Earth and Environmental Data Science") tutorial.
 
 # Line plots
