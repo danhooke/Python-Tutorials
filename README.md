@@ -2,7 +2,7 @@
 Code taken from Python tutorials focussed on climate change data sets including:
 
 - [Python Geospatial Tutorial](https://colab.research.google.com/drive/1B7gFBSr0eoZ5IbsA0lY8q3XL8n-3BOn4#scrollTo=sOFhBVx_fQcY) script covering the dowloading, manipulation and plotting of gridded data, culminating in producing a video.
-- [Earth and Environmental Data Science](https://earth-env-data-science.github.io/assignments/more_matplotlib.html) in depth tutorial including the exercise of writing my own code to produce figures in Matplotlib to a target style (pictured below).
+- [Earth and Environmental Data Science](https://earth-env-data-science.github.io/assignments/more_matplotlib.html) in depth tutorial including the 'Matplotlib Assignments' of writing my own code to produce figures in Matplotlib to a target style (pictured below).
 - [Copernicus Training](https://github.com/ecmwf-projects/copernicus-training) tutorials on using the API and plotting data.
 
 
