@@ -6,6 +6,10 @@ Code taken from Python tutorials focussed on climate change data sets including:
 - [Copernicus Training](https://github.com/ecmwf-projects/copernicus-training) tutorials on using the API and plotting data.
 
 
+Tutorials not complete yet:
+- [NASA](https://github.com/podaac/the-coding-club/blob/main/notebooks/Earthdata_webinar_20220727.ipynb)
+
+
 # Line plots
 
 Target Figure:
