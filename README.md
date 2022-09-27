@@ -9,6 +9,9 @@ Code taken from Python tutorials focussed on climate change data sets including:
 Tutorials not complete yet:
 - [NASA](https://github.com/podaac/the-coding-club/blob/main/notebooks/Earthdata_webinar_20220727.ipynb)
 
+Longer Tutorials:
+- [Earth Data Science](https://www.earthdatascience.org/)
+- [Spatial Thoughts](https://courses.spatialthoughts.com/python-dataviz.html)
 
 # Line plots
 
