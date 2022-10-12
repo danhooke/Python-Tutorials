@@ -8,6 +8,7 @@ Code taken from Python tutorials focussed on climate change data sets including:
 
 Tutorials not complete yet:
 - [NASA](https://github.com/podaac/the-coding-club/blob/main/notebooks/Earthdata_webinar_20220727.ipynb)
+- [Pangeo Notebooks](http://gallery.pangeo.io/index.html)
 
 Longer Tutorials:
 - [Earth Data Science](https://www.earthdatascience.org/)
