@@ -1,18 +1,19 @@
 # tutorials
 Code taken from Python tutorials focussed on climate change data sets including:
 
-- [Python Geospatial Tutorial](https://colab.research.google.com/drive/1B7gFBSr0eoZ5IbsA0lY8q3XL8n-3BOn4#scrollTo=sOFhBVx_fQcY) script covering the downloading, manipulation and plotting of gridded data, culminating in producing a video.
+Tutorial Collections:
 - [Earth and Environmental Data Science](https://earth-env-data-science.github.io/assignments/more_matplotlib.html) in depth tutorial including the 'Matplotlib Assignments' of writing my own code to produce figures in Matplotlib to a target style (pictured below).
+- [Earth Data Science](https://www.earthdatascience.org/)
 - [Copernicus Training](https://github.com/ecmwf-projects/copernicus-training) tutorials on using the API and plotting data.
-
-
-Tutorials not complete yet:
-- [NASA](https://github.com/podaac/the-coding-club/blob/main/notebooks/Earthdata_webinar_20220727.ipynb)
 - [Pangeo Notebooks](http://gallery.pangeo.io/index.html)
 
-Longer Tutorials:
-- [Earth Data Science](https://www.earthdatascience.org/)
-- [Spatial Thoughts](https://courses.spatialthoughts.com/python-dataviz.html)
+Specialist Tutorials:
+
+- [NASA](https://github.com/podaac/the-coding-club/blob/main/notebooks/Earthdata_webinar_20220727.ipynb) (Amazon Cloud, Sea Level data)
+
+Full Workflow Tutorials:
+- [Spatial Thoughts 2](https://courses.spatialthoughts.com/python-dataviz.html) (GeoPandas, Xarray, rioxarray, Cartopy, Folium, Streamlit, Leafmap)
+- [Python Geospatial Tutorial](https://colab.research.google.com/drive/1B7gFBSr0eoZ5IbsA0lY8q3XL8n-3BOn4#scrollTo=sOFhBVx_fQcY) script covering the downloading, manipulation and plotting of gridded data, culminating in producing a video.
 
 # Line plots
 
