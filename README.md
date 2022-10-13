@@ -19,7 +19,7 @@ Full Workflow Tutorials:
 
 Target Figure:
 
-<img src="![image](https://user-images.githubusercontent.com/44374383/195652667-5df5d800-5291-477d-81be-b7d15253f859.png)" alt="image.png" width="800"/>
+<img src="https://user-images.githubusercontent.com/44374383/195652984-6b58f16e-0cd7-47e8-b542-e2279c47f346.png" alt="image.png" width="800"/>
 ![image](https://user-images.githubusercontent.com/44374383/183218089-58e62581-8ef0-458c-8dba-b25565fca5df.png)
 
 My Attempt:
