@@ -19,12 +19,11 @@ Full Workflow Tutorials:
 
 Target Figure:
 
-<img src="https://user-images.githubusercontent.com/44374383/195652984-6b58f16e-0cd7-47e8-b542-e2279c47f346.png" alt="image.png" width="800"/>
 ![image](https://user-images.githubusercontent.com/44374383/183218089-58e62581-8ef0-458c-8dba-b25565fca5df.png)
 
 My Attempt:
 ![Line Plot Assignment](https://user-images.githubusercontent.com/44374383/183218167-96ba7e88-43f0-4035-a5c2-08a2055b56a1.png)
-
+[Code for Figure](https://github.com/danhooke/tutorials/blob/main/Matplotlib%20Assignments.ipynb)
 # Contour plots
 
 Target Figure:
