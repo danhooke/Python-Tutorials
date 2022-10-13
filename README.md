@@ -19,6 +19,7 @@ Full Workflow Tutorials:
 
 Target Figure:
 
+<img src="https://user-images.githubusercontent.com/44374383/183218089-58e62581-8ef0-458c-8dba-b25565fca5df.png" alt="image.png" width="800"/>
 ![image](https://user-images.githubusercontent.com/44374383/183218089-58e62581-8ef0-458c-8dba-b25565fca5df.png)
 
 My Attempt:
