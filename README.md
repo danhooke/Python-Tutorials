@@ -3,7 +3,7 @@
 Collection of tutorials I have undertaken and found useful for producing climate change-related figures using Python.
 
 **Larger Tutorial Collections:**
-- [Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html) in depth tutorial including the 'Matplotlib Assignments' of writing my own code to produce figures in Matplotlib to a target style (pictured below).
+- [Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html) (Authors: Ryan Abernathey, Kerry Key and Tim Crone) In-depth tutorial series from fundamentals up to parallel computing, including valuable assignments to problem-solvee independently. (*Numpy, Pandas, Matplotlib, Xarray, Cartopy).
 - [Earth Data Science](https://www.earthdatascience.org/)
 - [Copernicus Training](https://github.com/ecmwf-projects/copernicus-training) tutorials on using the API and plotting data.
 - [Pangeo Notebooks](http://gallery.pangeo.io/index.html)
@@ -13,8 +13,9 @@ Collection of tutorials I have undertaken and found useful for producing climate
 - [NASA](https://github.com/podaac/the-coding-club/blob/main/notebooks/Earthdata_webinar_20220727.ipynb) Accessing NASA sea level data (*Amazon Cloud*)
 
 **Full Workflow Tutorials:**
-- [Spatial Thoughts 2](https://courses.spatialthoughts.com/python-dataviz.html) (*Matplotlib, GeoPandas, Xarray, rioxarray, Cartopy, Folium, Streamlit, Leafmap*)
-- [Python Geospatial Tutorial](https://colab.research.google.com/drive/1B7gFBSr0eoZ5IbsA0lY8q3XL8n-3BOn4#scrollTo=sOFhBVx_fQcY) Basic, Intermediate and Advanced scripts covering automated downloading, in-depth manipulation and plotting of gridded data, culminating in producing a video (*Xarray, Matplotlib, cv2*). 
+- [Spatial Thoughts: Python Foundation for Spatial Analyse](https://courses.spatialthoughts.com/python-foundation.html) (Author: Ujaval Gandhi) Python fundamentals, including APIs. (*Pandas, Geopandas, Numpy, RasterIO*).
+- [Spatial Thoughts: Mapping and Data Vizualization with Python](https://courses.spatialthoughts.com/python-dataviz.html) (Author: Ujaval Gandhi) (*Matplotlib, GeoPandas, Xarray, rioxarray, Cartopy, Folium, Streamlit, Leafmap*)
+- [Python Geospatial Tutorial](https://colab.research.google.com/drive/1B7gFBSr0eoZ5IbsA0lY8q3XL8n-3BOn4#scrollTo=sOFhBVx_fQcY) (Author: Ali Ahmadalipour). Basic, Intermediate and Advanced scripts covering automated downloading, in-depth manipulation and plotting of gridded data, culminating in producing a video (*Xarray, Matplotlib, cv2*). 
 
 **Video Tutorial Series:**
 - [MetPy Mondays](https://www.youtube.com/playlist?list=PLQut5OXpV-0ir4IdllSt1iEZKTwFBa7kO)
