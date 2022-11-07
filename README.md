@@ -1,5 +1,6 @@
-# tutorials
-Code taken from Python tutorials focussed on climate change data sets including:
+# Tutorials
+
+Collection of tutorials I have udertaken and found useful for producing climate change-related figures using Python
 
 **Larger Tutorial Collections:**
 - [Earth and Environmental Data Science](https://earth-env-data-science.github.io/assignments/more_matplotlib.html) in depth tutorial including the 'Matplotlib Assignments' of writing my own code to produce figures in Matplotlib to a target style (pictured below).
