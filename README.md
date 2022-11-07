@@ -17,21 +17,27 @@ Full Workflow Tutorials:
 
 # Tutorial Assignments
 
-Assigment recreating target plots in Matplotlib from the [Earth and Environmental Data Science Turorial](https://earth-env-data-science.github.io/assignments/more_matplotlib.html)
+Assignment recreating target plots in Matplotlib from the [Earth and Environmental Data Science Turorial](https://earth-env-data-science.github.io/assignments/more_matplotlib.html).
 
 ## Line plots
 
 Target Figure:
 
-![image](https://user-images.githubusercontent.com/44374383/183218089-58e62581-8ef0-458c-8dba-b25565fca5df.png)
+<img src="https://user-images.githubusercontent.com/44374383/183218089-58e62581-8ef0-458c-8dba-b25565fca5df.png" width="500" />
 
 My Attempt:
 <img src="https://user-images.githubusercontent.com/44374383/183218167-96ba7e88-43f0-4035-a5c2-08a2055b56a1.png" width="500" />
 [Code for Figure](https://github.com/danhooke/tutorials/blob/main/Matplotlib%20Assignments.ipynb)
-# Contour plots
+## Contour plots
 
 Target Figure:
 ![image](https://user-images.githubusercontent.com/44374383/182443773-0c7b05b0-d361-4b3f-b5e2-c285efe9be1a.png)
 
 My attempt:
 ![Contour Assignment](https://user-images.githubusercontent.com/44374383/182443702-2d0d1500-8b36-4bd2-ab47-a0773a72e534.png)
+
+## Scatter plots
+
+
+
+
