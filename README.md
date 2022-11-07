@@ -28,7 +28,7 @@ Assignment recreating target plots in Matplotlib from the [Earth and Environment
 
 Target Figure:       My Attempt:    [Code for Figure](https://github.com/danhooke/tutorials/blob/main/Matplotlib%20Assignments.ipynb)
 
-<img src="https://user-images.githubusercontent.com/44374383/183218089-58e62581-8ef0-458c-8dba-b25565fca5df.png" width="500" /> <img src="https://user-images.githubusercontent.com/44374383/183218167-96ba7e88-43f0-4035-a5c2-08a2055b56a1.png" width="500" />
+<img src="https://user-images.githubusercontent.com/44374383/183218089-58e62581-8ef0-458c-8dba-b25565fca5df.png" width="400" /> <img src="https://user-images.githubusercontent.com/44374383/183218167-96ba7e88-43f0-4035-a5c2-08a2055b56a1.png" width="400" />
 
 
 
