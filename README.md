@@ -15,14 +15,18 @@ Full Workflow Tutorials:
 - [Spatial Thoughts 2](https://courses.spatialthoughts.com/python-dataviz.html) (GeoPandas, Xarray, rioxarray, Cartopy, Folium, Streamlit, Leafmap)
 - [Python Geospatial Tutorial](https://colab.research.google.com/drive/1B7gFBSr0eoZ5IbsA0lY8q3XL8n-3BOn4#scrollTo=sOFhBVx_fQcY) script covering the downloading, manipulation and plotting of gridded data, culminating in producing a video.
 
-# Line plots
+# Tutorial Assignments
+
+Assigment recreating target plots in Matplotlib from the [Earth and Environmental Data Science Turorial](https://earth-env-data-science.github.io/assignments/more_matplotlib.html)
+
+## Line plots
 
 Target Figure:
 
 ![image](https://user-images.githubusercontent.com/44374383/183218089-58e62581-8ef0-458c-8dba-b25565fca5df.png)
 
 My Attempt:
-![Line Plot Assignment](https://user-images.githubusercontent.com/44374383/183218167-96ba7e88-43f0-4035-a5c2-08a2055b56a1.png)
+<img src="https://user-images.githubusercontent.com/44374383/183218167-96ba7e88-43f0-4035-a5c2-08a2055b56a1.png" width="500" />
 [Code for Figure](https://github.com/danhooke/tutorials/blob/main/Matplotlib%20Assignments.ipynb)
 # Contour plots
 
