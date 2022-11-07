@@ -14,7 +14,7 @@ Collection of tutorials I have undertaken and found useful for producing climate
 
 **Full Workflow Tutorials:**
 - [Spatial Thoughts 2](https://courses.spatialthoughts.com/python-dataviz.html) (GeoPandas, Xarray, rioxarray, Cartopy, Folium, Streamlit, Leafmap)
-- [Python Geospatial Tutorial](https://colab.research.google.com/drive/1B7gFBSr0eoZ5IbsA0lY8q3XL8n-3BOn4#scrollTo=sOFhBVx_fQcY) script covering the downloading, manipulation and plotting of gridded data, culminating in producing a video.
+- [Python Geospatial Tutorial](https://colab.research.google.com/drive/1B7gFBSr0eoZ5IbsA0lY8q3XL8n-3BOn4#scrollTo=sOFhBVx_fQcY). Basic, Intermediate and Advanced scripts covering automated downloading, in-depth manipulation and plotting of gridded data, culminating in producing a video. (*Xarray, Matplotlib, cv2*). 
 
 **Video Tutorial Series:**
 - [MetPy Mondays](https://www.youtube.com/playlist?list=PLQut5OXpV-0ir4IdllSt1iEZKTwFBa7kO)
