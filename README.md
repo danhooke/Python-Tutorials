@@ -31,20 +31,24 @@ Assignment from the [Earth and Environmental Data Science Tutorial](https://eart
 
 Target Figure:           My Attempt:       [Code for Figure](https://github.com/danhooke/Python-Tutorials/blob/main/Line%20Assignment.ipynb)
 
-<img src="https://user-images.githubusercontent.com/44374383/200693145-c485c11e-0ee2-499b-9e7d-8de19692e592.png" width="400" />                                     <img src="https://github.com/danhooke/Python-Tutorials/blob/main/Line%20Assignment.png?raw=true" width="400" />
-
-
+<img src="https://user-images.githubusercontent.com/44374383/200693145-c485c11e-0ee2-499b-9e7d-8de19692e592.png" width="500" />                                     <img src="https://github.com/danhooke/Python-Tutorials/blob/main/Line%20Assignment.png?raw=true" width="500" />
 
 ## Contour plots
 
-Target Figure:
-![image](https://user-images.githubusercontent.com/44374383/182443773-0c7b05b0-d361-4b3f-b5e2-c285efe9be1a.png)
+**Target Figure:**
 
-My attempt:
-![Contour Assignment](https://user-images.githubusercontent.com/44374383/182443702-2d0d1500-8b36-4bd2-ab47-a0773a72e534.png)
+<img src="https://earth-env-data-science.github.io/_images/fig2.png" width="800" /> 
+
+**My Attempt:** [Code for Figure](https://github.com/danhooke/Python-Tutorials/blob/main/Contour%20Assignment.ipynb)
+
+<img src="https://github.com/danhooke/Python-Tutorials/blob/main/Contour%20Assignment.png?raw=true" width="800" /> 
 
 ## Scatter plots
 
+**Target Figure:**
 
+<img src="https://earth-env-data-science.github.io/_images/fig3.png" width="800" /> 
 
+**My Attempt:** [Code for Figure](https://github.com/danhooke/Python-Tutorials/blob/main/Scatter%20Assignment.ipynb)
 
+<img src="https://github.com/danhooke/Python-Tutorials/blob/main/Scatter%20Assignment.png?raw=true" width="800" /> 
