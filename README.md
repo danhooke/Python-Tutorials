@@ -25,7 +25,7 @@ Collection of tutorials I have undertaken and found useful for producing climate
 
 # Tutorial Assignments
 
-Assignment from the [Earth and Environmental Data Science Turorial](https://earth-env-data-science.github.io/assignments/more_matplotlib.html) recreating target plots in Matplotlib, using prescribed data (often different from the original data).
+Assignment from the [Earth and Environmental Data Science Tutorial](https://earth-env-data-science.github.io/assignments/more_matplotlib.html) recreating target plots in Matplotlib, using prescribed data (often different from the original data).
 
 ## Line plots
 
