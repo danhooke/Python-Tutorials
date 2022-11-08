@@ -3,14 +3,16 @@
 Collection of tutorials I have undertaken and found useful for producing climate change-related figures using Python.
 
 **Larger Tutorial Collections:**
-- [Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html) (Authors: Ryan Abernathey, Kerry Key and Tim Crone) In-depth tutorial series from fundamentals up to parallel computing, including valuable assignments (shown below) to problem-solve independently. (*Numpy, Pandas, Matplotlib, Xarray, Cartopy*).
+- [Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html) (Authors: Ryan Abernathey, Kerry Key and Tim Crone) In-depth tutorial series including environments, key packages and parallel computing, including valuable assignments (shown below) to problem-solve independently. (*Numpy, Pandas, Matplotlib, Xarray, Cartopy*).
 - [Earth Data Science](https://www.earthdatascience.org/)
 - [Copernicus Training](https://github.com/ecmwf-projects/copernicus-training) Series of notebooks training on accessing and visualising Copernicus CDS and CAMS data, including APIs and GIFs. (*cdsapi, Xarray, Matplotlib, Cartopy, imageio*)
 - [Pangeo Notebooks](http://gallery.pangeo.io/index.html)
 
 **Specialist Tutorials:**
 
-- [NASA](https://github.com/podaac/the-coding-club/blob/main/notebooks/Earthdata_webinar_20220727.ipynb) Accessing NASA sea level data (*Amazon Cloud*)
+- [NASA](https://github.com/podaac/the-coding-club/blob/main/notebooks/Earthdata_webinar_20220727.ipynb) Accessing NASA sea level data from Amazon cloud (*Amazon Cloud*)
+- [Dunder Data on Matplotlib DPI](https://medium.com/dunder-data/why-matplotlib-figure-inches-dont-match-your-screen-inches-and-how-to-fix-it-993fa0417dba) (Author: Ted Petrou) Detailed tutorial on sizing Matplotlib figures in Jupyter notebooks. (*Matplotlib*)
+- [Figuring Figures Out: A Matplotlib Tutorial, Part 2](https://www.sonofacorner.com/figuring-figures-out/) (Author: Son of a corner) In-depth tutorial on sizing figure elements using Matplotlib coordinate systems (*Matplotlib*)
 
 **Full Workflow Tutorials:**
 - [Spatial Thoughts: Python Foundation for Spatial Analyse](https://courses.spatialthoughts.com/python-foundation.html) (Author: Ujaval Gandhi) Python fundamentals, including APIs. (*Pandas, Geopandas, Numpy, RasterIO*).
