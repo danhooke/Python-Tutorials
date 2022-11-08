@@ -29,9 +29,13 @@ Assignment from the [Earth and Environmental Data Science Tutorial](https://eart
 
 ## Line plots
 
-Target Figure:           My Attempt:       [Code for Figure](https://github.com/danhooke/Python-Tutorials/blob/main/Line%20Assignment.ipynb)
+**Target Figure:**           
 
-<img src="https://user-images.githubusercontent.com/44374383/200693145-c485c11e-0ee2-499b-9e7d-8de19692e592.png" width="500" />                                     <img src="https://github.com/danhooke/Python-Tutorials/blob/main/Line%20Assignment.png?raw=true" width="500" />
+<img src="https://user-images.githubusercontent.com/44374383/200693145-c485c11e-0ee2-499b-9e7d-8de19692e592.png" width="800" />   
+
+**My Attempt:**       [Code for Figure](https://github.com/danhooke/Python-Tutorials/blob/main/Line%20Assignment.ipynb)
+
+<img src="https://github.com/danhooke/Python-Tutorials/blob/main/Line%20Assignment.png?raw=true" width="800" />
 
 ## Contour plots
 
