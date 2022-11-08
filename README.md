@@ -21,7 +21,7 @@ Collection of tutorials I have undertaken and found useful for producing climate
 
 **Video Tutorial Series:**
 - [MetPy Mondays](https://www.youtube.com/playlist?list=PLQut5OXpV-0ir4IdllSt1iEZKTwFBa7kO) Large (200+) collection of videos on individual topics throughout processing and plotting geospatial data. Useful if you are stuck on something. (*Xarray, Cartopy, MetPy*)
-- [Climate Unboxed](https://www.youtube.com/channel/UC94xkaJn1NkxR4trAfVArbg) Series on acessing CDS API and analysing NetCDF files in Python (*cdsapi, 
+- [Climate Unboxed](https://www.youtube.com/channel/UC94xkaJn1NkxR4trAfVArbg) Series on acessing CDS API and analysing NetCDF files in Python (*cdsapi*)
 
 # Tutorial Assignments
 
