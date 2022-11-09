@@ -3,7 +3,8 @@
 Collection of tutorials I have undertaken and found useful for producing climate change-related figures using Python.
 
 **Larger Tutorial Collections:**
-- [Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html) (Authors: Ryan Abernathey, Kerry Key and Tim Crone) In-depth tutorial series including environments, key packages and parallel computing, including valuable assignments (shown below) to problem-solve independently. (*Numpy, Pandas, Matplotlib, Xarray, Cartopy*).
+- [Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html) (Authors: Ryan Abernathey, Kerry Key and Tim Crone) In-depth tutorial series including environments, key packages and parallel computing, including valuable assignments (shown below) to problem-solve independently. 
+  - (*Numpy, Pandas, Matplotlib, Xarray, Cartopy*).
 - [Earth Data Science](https://www.earthdatascience.org/)
 - [Copernicus Training](https://github.com/ecmwf-projects/copernicus-training) Series of notebooks training on accessing and visualising Copernicus CDS and CAMS data, including APIs and GIFs. (*cdsapi, Xarray, Matplotlib, Cartopy, imageio*)
 - [Pangeo Notebooks](http://gallery.pangeo.io/index.html)
@@ -20,8 +21,10 @@ Collection of tutorials I have undertaken and found useful for producing climate
 - [Python Geospatial Tutorial](https://colab.research.google.com/drive/1B7gFBSr0eoZ5IbsA0lY8q3XL8n-3BOn4#scrollTo=sOFhBVx_fQcY) (Author: Ali Ahmadalipour). Basic, Intermediate and Advanced scripts covering automated downloading, in-depth manipulation and plotting of gridded data, culminating in producing a video (*Xarray, Matplotlib, cv2*). 
 
 **Video Tutorial Series:**
-- [MetPy Mondays](https://www.youtube.com/playlist?list=PLQut5OXpV-0ir4IdllSt1iEZKTwFBa7kO) Large (200+) collection of videos on individual topics throughout processing and plotting geospatial data in python. Useful if you are stuck on something meteorological. (*Xarray, Cartopy, MetPy*)
-- [Climate Unboxed](https://www.youtube.com/channel/UC94xkaJn1NkxR4trAfVArbg) Series on acessing CDS API and analysing NetCDF files in Python (*cdsapi*)
+- [MetPy Mondays](https://www.youtube.com/playlist?list=PLQut5OXpV-0ir4IdllSt1iEZKTwFBa7kO) Large (200+) collection of videos on individual topics throughout processing and plotting geospatial data in python. Useful if you are stuck on something meteorological. 
+  - (*Xarray, Cartopy, MetPy*)
+- [Climate Unboxed](https://www.youtube.com/channel/UC94xkaJn1NkxR4trAfVArbg) Series on acessing CDS API and analysing NetCDF files in Python.
+  - (*cdsapi*)
 
 # Tutorial Assignments
 
