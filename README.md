@@ -10,22 +10,38 @@ Collection of tutorials I have undertaken and found useful for producing climate
   - (*cdsapi, Xarray, Matplotlib, Cartopy, imageio*)
 - [Pangeo Notebooks](http://gallery.pangeo.io/index.html)
 
-**Specialist Tutorials:**
-
-- [NASA](https://github.com/podaac/the-coding-club/blob/main/notebooks/Earthdata_webinar_20220727.ipynb) Accessing NASA sea level data from Amazon cloud 
-  - (*Amazon Cloud*)
-- [Dunder Data on Matplotlib DPI](https://medium.com/dunder-data/why-matplotlib-figure-inches-dont-match-your-screen-inches-and-how-to-fix-it-993fa0417dba) (Author: Ted Petrou) Detailed tutorial on sizing Matplotlib figures in Jupyter notebooks. 
-  - (*Matplotlib*)
-- [Figuring Figures Out: A Matplotlib Tutorial, Part 2](https://www.sonofacorner.com/figuring-figures-out/) In-depth tutorial on sizing figure elements using Matplotlib coordinate systems. 
-  - (*Matplotlib*)
-
-**Full Workflow Tutorials:**
+**Full Geospatial Workflow Tutorials:**
 - [Spatial Thoughts: Python Foundation for Spatial Analyse](https://courses.spatialthoughts.com/python-foundation.html) Python fundamentals, including APIs. 
   - (*Pandas, Geopandas, Numpy, RasterIO*).
 - [Spatial Thoughts: Mapping and Data Vizualization with Python](https://courses.spatialthoughts.com/python-dataviz.html) 
   - (*Matplotlib, GeoPandas, Xarray, rioxarray, Cartopy, Folium, Streamlit, Leafmap*)
 - [Python Geospatial Tutorial](https://colab.research.google.com/drive/1B7gFBSr0eoZ5IbsA0lY8q3XL8n-3BOn4#scrollTo=sOFhBVx_fQcY) Basic, Intermediate and Advanced scripts covering automated downloading, in-depth manipulation and plotting of gridded data, culminating in producing a video. 
   - (*Xarray, Matplotlib, cv2*)
+
+**Specialist Tutorials on Accessing Data:**
+
+- [NASA Coding Club](https://github.com/podaac/the-coding-club/blob/main/notebooks/Earthdata_webinar_20220727.ipynb) Notebook tutorial for accessing NASA sea level data from Amazon cloud.
+  - (*AWS*)
+- [ESA CCI SST](https://surftemp.github.io/sst-data-tutorials/) Notebook tutorial for accessing ESA satellite SST data from Amazon cloud.
+  - (*AWS*)
+- [Pharos API](https://colab.research.google.com/drive/1WkIm8thDSWI8ENDlPdAGMnlhaZWG0Ch0?usp=sharing) Notebook tutorial for accessing Pharos Data Catalogue.
+  - (*Pharos API*)
+
+**Specialist Python Visualisation Resources:**
+
+- [PyViz](https://pyviz.org/tools.html) Comprehensive list documenting all the visualisation packages in Python.
+-  [Coding for Economists](https://aeturrell.github.io/coding-for-economists/vis-intro.html) Large, advanced-level explainer across multiple visualisation libraries.
+- [Awesome Matplotlib](https://github.com/paniterka/awesome-matplotlib) List of resources and tutorials.
+- [The Python Coding Book](https://thepythoncodingbook.com/basics-of-data-visualisation-in-python-using-matplotlib/) Step by step tutorial on the basics of using Matplotlib, including animations.
+  - (*Matplotlib*)
+- [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book) Large, in-depth book covering every aspect of visualisation using Matplotlib.
+  - (*Matplotlib*)
+- [Matplotlib for Storytellers](https://github.com/alexanderthclark/Matplotlib-for-Storytellers/tree/main/Demos) Book and notebooks, focussed on figure customisation.
+  - (*Matplotlib*)
+- [Dunder Data on Matplotlib DPI](https://medium.com/dunder-data/why-matplotlib-figure-inches-dont-match-your-screen-inches-and-how-to-fix-it-993fa0417dba) Detailed tutorial on sizing Matplotlib figures in Jupyter notebooks. 
+  - (*Matplotlib*)
+- [Figuring Figures Out: A Matplotlib Tutorial, Part 2](https://www.sonofacorner.com/figuring-figures-out/) In-depth tutorial on sizing figure elements using Matplotlib coordinate systems. 
+  - (*Matplotlib*)
 
 **Video Tutorial Series:**
 - [MetPy Mondays](https://www.youtube.com/playlist?list=PLQut5OXpV-0ir4IdllSt1iEZKTwFBa7kO) Large (200+) collection of videos on individual topics throughout processing and plotting geospatial data in python. Useful if you are stuck on something meteorological. 
