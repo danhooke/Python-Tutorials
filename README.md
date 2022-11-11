@@ -26,6 +26,7 @@ Collection of tutorials I have undertaken and found useful for producing climate
   - (*AWS*)
 - [Pharos API](https://colab.research.google.com/drive/1WkIm8thDSWI8ENDlPdAGMnlhaZWG0Ch0?usp=sharing) Notebook tutorial for accessing Pharos Data Catalogue.
   - (*Pharos API*)
+- [CarbonPlan CMIP-6](https://github.com/carbonplan/cmip6-downscaling/blob/main/notebooks/accessing_data_example.ipynb) Notebook accessing downscaled CMIP-6 data.
 
 **Specialist Python Visualisation Resources:**
 
@@ -42,6 +43,8 @@ Collection of tutorials I have undertaken and found useful for producing climate
   - (*Matplotlib*)
 - [Figuring Figures Out: A Matplotlib Tutorial, Part 2](https://www.sonofacorner.com/figuring-figures-out/) In-depth tutorial on sizing figure elements using Matplotlib coordinate systems. 
   - (*Matplotlib*)
+- [Python Maps](https://github.com/symmy596/towards-data-science-articles) Articles and notebooks on producing customised maps.
+  - (*Matplotlib, GeoPandas*)
 
 **Video Tutorial Series:**
 - [MetPy Mondays](https://www.youtube.com/playlist?list=PLQut5OXpV-0ir4IdllSt1iEZKTwFBa7kO) Large (200+) collection of videos on individual topics throughout processing and plotting geospatial data in python. Useful if you are stuck on something meteorological. 
