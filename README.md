@@ -5,9 +5,9 @@ Collection of tutorials I have undertaken and example notebooks I have found use
 ## In-depth Tutorials:
 - [Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html) Tutorial series covering Python environments and key packages for analysis and visualisation, including valuable assignments (shown below) to problem-solve independently. 
   - (*Numpy, Pandas, Matplotlib, Xarray, Cartopy*)
-- [Pythia Foundations](https://foundations.projectpythia.org/landing-page.html) Tutorial on introductory and intermediate workflows for analysing cliamte change data using Python. Covers key libaries, and particularly good for GitHub.
+- [Pythia Foundations](https://foundations.projectpythia.org/landing-page.html) Tutorial on introductory and intermediate workflows for analysing climate change data using Python. Covers key libaries, and particularly good for GitHub.
   - (*NumPy, Matplotlib, Cartopy, Datetime, Pandas, Xarray*)
-- [Earth Data Science](https://www.earthdatascience.org/) Thorough Introductory and Intermediate courses, covering the complete data access, analysis and visualisation workflow.
+- [Earth Data Science](https://www.earthdatascience.org/) Thorough Intro and Intermediate courses, covering the complete data access, analysis and visualisation workflow.
   - (*Xarray, Matplotlib, Pandas*)
 
 ## Full Geospatial Workflow Tutorials:
