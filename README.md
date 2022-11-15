@@ -98,11 +98,15 @@ Assignment from the [Earth and Environmental Data Science Tutorial](https://eart
 
 **My Attempt:**
 
+<img src="https://github.com/danhooke/Python-Tutorials/blob/main/NARR%20Assignment.png?raw=true" width="800" />
+
 ## Antarctic Sea Ice Assignment
 
 **Target Figure:**
 
 <img src="https://earth-env-data-science.github.io/_images/sea_ice_map.png" width="800" />
+
+<img src="https://github.com/danhooke/Python-Tutorials/blob/main/Antarctic%20Assignment.png?raw=true" width="800" />
 
 **My Attempt:**
 
