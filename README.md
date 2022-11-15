@@ -1,25 +1,24 @@
 # Tutorials
 
-Collection of tutorials I have undertaken and found useful for producing climate change-related figures using Python.
+Collection of tutorials I have undertaken and example notebooks I have found useful for producing climate change figures using Python.
 
 ## Complete Tutorials:
 - [Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html) In-depth tutorial series covering Python environments and key packages for analysis and visualisation, including valuable assignments (shown below) to problem-solve independently. 
   - (*Numpy, Pandas, Matplotlib, Xarray, Cartopy*)
-- [Earth Data Science](https://www.earthdatascience.org/) 
-
-
-## Collections of Example Notebooks
-- [Pangeo Notebooks](http://gallery.pangeo.io/index.html) Large, wide-ranging collection containing advanced notebooks on topics including CMIP6, LandSat and Cryosphere data.
+- [Pythia Foundations](https://foundations.projectpythia.org/landing-page.html) In-depth tutorial on introductory and intermediate workflows for analysing cliamte change data using Python. Covers key libaries, and particularly good for GitHub.
+  - (*NumPy, Matplotlib, Cartopy, Datetime, Pandas, Xarray*)
+- [Earth Data Science](https://www.earthdatascience.org/) Thorough Introductory and Intermediate courses, covering the complete data access, analysis and visualisation workflow.
+  - (*Xarray, Matplotlib, Pandas*)
 
 ## Full Geospatial Workflow Tutorials:
 - [Spatial Thoughts: Python Foundation for Spatial Analyse](https://courses.spatialthoughts.com/python-foundation.html) Python fundamentals, including APIs. 
-  - (*Pandas, Geopandas, Numpy, RasterIO*).
+  - (*Pandas, Geopandas, NumPy, RasterIO*)
 - [Spatial Thoughts: Mapping and Data Vizualization with Python](https://courses.spatialthoughts.com/python-dataviz.html) 
   - (*Matplotlib, GeoPandas, Xarray, rioxarray, Cartopy, Folium, Streamlit, Leafmap*)
 - [Python Geospatial Tutorial](https://colab.research.google.com/drive/1B7gFBSr0eoZ5IbsA0lY8q3XL8n-3BOn4#scrollTo=sOFhBVx_fQcY) Basic, Intermediate and Advanced scripts covering automated downloading, in-depth manipulation and plotting of gridded data, culminating in producing a video. 
   - (*Xarray, Matplotlib, cv2*)
 
-## Specialist Tutorials on Accessing Data:
+## Specialist Notebooks on Accessing Data:
 
 - [Copernicus Training](https://github.com/ecmwf-projects/copernicus-training) Series of notebooks training on accessing and visualising Copernicus CDS and CAMS data, including APIs and GIFs. 
   - (*cdsapi, Xarray, Matplotlib, Cartopy, imageio*)
@@ -31,6 +30,10 @@ Collection of tutorials I have undertaken and found useful for producing climate
   - (*Pharos API*)
 - [CarbonPlan CMIP-6](https://github.com/carbonplan/cmip6-downscaling/blob/main/notebooks/accessing_data_example.ipynb) Individual notebook accessing downscaled CMIP-6 data.
 - [CryoTEMPO-EOLIS](https://cryotempo-eolis.org/tutorials/) Two notebooks accessing CryoSat elevation data.
+
+
+## Collections of Example Notebooks
+- [Pangeo Notebooks](http://gallery.pangeo.io/index.html) Large, wide-ranging collection containing advanced notebooks on topics including CMIP6, LandSat and Cryosphere data.
 
 ## Specialist Python Visualisation Resources:
 
