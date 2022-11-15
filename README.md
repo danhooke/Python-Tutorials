@@ -27,6 +27,7 @@ Collection of tutorials I have undertaken and found useful for producing climate
 - [Pharos API](https://colab.research.google.com/drive/1WkIm8thDSWI8ENDlPdAGMnlhaZWG0Ch0?usp=sharing) Notebook tutorial for accessing Pharos Data Catalogue.
   - (*Pharos API*)
 - [CarbonPlan CMIP-6](https://github.com/carbonplan/cmip6-downscaling/blob/main/notebooks/accessing_data_example.ipynb) Notebook accessing downscaled CMIP-6 data.
+- [CryoTEMPO-EOLIS](https://cryotempo-eolis.org/tutorials/) Notebooks accessing CryoSat elevation data.
 
 ## Specialist Python Visualisation Resources:
 
