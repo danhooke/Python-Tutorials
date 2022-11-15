@@ -2,7 +2,7 @@
 
 Collection of tutorials I have undertaken and found useful for producing climate change-related figures using Python.
 
-**Larger Tutorial Collections:**
+## Larger Tutorial Collections:
 - [Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html) In-depth tutorial series covering Python environments and key packages for analysis and visualisation, including valuable assignments (shown below) to problem-solve independently. 
   - (*Numpy, Pandas, Matplotlib, Xarray, Cartopy*)
 - [Earth Data Science](https://www.earthdatascience.org/)
@@ -10,7 +10,7 @@ Collection of tutorials I have undertaken and found useful for producing climate
   - (*cdsapi, Xarray, Matplotlib, Cartopy, imageio*)
 - [Pangeo Notebooks](http://gallery.pangeo.io/index.html)
 
-**Full Geospatial Workflow Tutorials:**
+## Full Geospatial Workflow Tutorials:
 - [Spatial Thoughts: Python Foundation for Spatial Analyse](https://courses.spatialthoughts.com/python-foundation.html) Python fundamentals, including APIs. 
   - (*Pandas, Geopandas, Numpy, RasterIO*).
 - [Spatial Thoughts: Mapping and Data Vizualization with Python](https://courses.spatialthoughts.com/python-dataviz.html) 
@@ -18,7 +18,7 @@ Collection of tutorials I have undertaken and found useful for producing climate
 - [Python Geospatial Tutorial](https://colab.research.google.com/drive/1B7gFBSr0eoZ5IbsA0lY8q3XL8n-3BOn4#scrollTo=sOFhBVx_fQcY) Basic, Intermediate and Advanced scripts covering automated downloading, in-depth manipulation and plotting of gridded data, culminating in producing a video. 
   - (*Xarray, Matplotlib, cv2*)
 
-**Specialist Tutorials on Accessing Data:**
+## Specialist Tutorials on Accessing Data:
 
 - [NASA Coding Club](https://github.com/podaac/the-coding-club/blob/main/notebooks/Earthdata_webinar_20220727.ipynb) Notebook tutorial for accessing NASA sea level data from Amazon cloud.
   - (*AWS*)
@@ -28,7 +28,7 @@ Collection of tutorials I have undertaken and found useful for producing climate
   - (*Pharos API*)
 - [CarbonPlan CMIP-6](https://github.com/carbonplan/cmip6-downscaling/blob/main/notebooks/accessing_data_example.ipynb) Notebook accessing downscaled CMIP-6 data.
 
-**Specialist Python Visualisation Resources:**
+## Specialist Python Visualisation Resources:
 
 - [PyViz](https://pyviz.org/tools.html) Comprehensive list documenting all the visualisation packages in Python.
 -  [Coding for Economists](https://aeturrell.github.io/coding-for-economists/vis-intro.html) Large, advanced-level explainer across multiple visualisation libraries.
@@ -46,7 +46,7 @@ Collection of tutorials I have undertaken and found useful for producing climate
 - [Python Maps](https://github.com/symmy596/towards-data-science-articles) Articles and notebooks on producing customised maps.
   - (*Matplotlib, GeoPandas*)
 
-**Video Tutorial Series:**
+## Video Tutorial Series:
 - [MetPy Mondays](https://www.youtube.com/playlist?list=PLQut5OXpV-0ir4IdllSt1iEZKTwFBa7kO) Large (200+) collection of videos on individual topics throughout processing and plotting geospatial data in python. Useful if you are stuck on something meteorological. 
   - (*Xarray, Cartopy, MetPy*)
 - [Climate Unboxed](https://www.youtube.com/channel/UC94xkaJn1NkxR4trAfVArbg) Series on acessing CDS API and analysing NetCDF files in Python.
