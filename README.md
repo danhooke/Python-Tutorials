@@ -89,3 +89,29 @@ Assignment from the [Earth and Environmental Data Science Tutorial](https://eart
 **My Attempt:** [Code for Figure](https://github.com/danhooke/Python-Tutorials/blob/main/Scatter%20Assignment.ipynb)
 
 <img src="https://github.com/danhooke/Python-Tutorials/blob/main/Scatter%20Assignment.png?raw=true" width="800" /> 
+
+## NARR data Assignment
+
+**Target Figure:**
+
+<img src="https://earth-env-data-science.github.io/_images/narr_map.png" width="800" />
+
+**My Attempt:**
+
+## Antarctic Sea Ice Assignment
+
+**Target Figure:**
+
+<img src="https://earth-env-data-science.github.io/_images/sea_ice_map.png" width="800" />
+
+**My Attempt:**
+
+## Global USGS Earthquakes Assignment
+
+**Target Figure:**
+
+<img src="https://earth-env-data-science.github.io/_images/earthquake_map.png" width="800" />
+
+**My Attempt:**
+
+
