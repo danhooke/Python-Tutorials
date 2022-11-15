@@ -2,13 +2,14 @@
 
 Collection of tutorials I have undertaken and found useful for producing climate change-related figures using Python.
 
-## Larger Tutorial Collections:
+## Complete Tutorials:
 - [Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html) In-depth tutorial series covering Python environments and key packages for analysis and visualisation, including valuable assignments (shown below) to problem-solve independently. 
   - (*Numpy, Pandas, Matplotlib, Xarray, Cartopy*)
-- [Earth Data Science](https://www.earthdatascience.org/)
-- [Copernicus Training](https://github.com/ecmwf-projects/copernicus-training) Series of notebooks training on accessing and visualising Copernicus CDS and CAMS data, including APIs and GIFs. 
-  - (*cdsapi, Xarray, Matplotlib, Cartopy, imageio*)
-- [Pangeo Notebooks](http://gallery.pangeo.io/index.html)
+- [Earth Data Science](https://www.earthdatascience.org/) 
+
+
+## Collections of Example Notebooks
+- [Pangeo Notebooks](http://gallery.pangeo.io/index.html) Large, wide-ranging collection containing advanced notebooks on topics including CMIP6, LandSat and Cryosphere data.
 
 ## Full Geospatial Workflow Tutorials:
 - [Spatial Thoughts: Python Foundation for Spatial Analyse](https://courses.spatialthoughts.com/python-foundation.html) Python fundamentals, including APIs. 
@@ -20,14 +21,16 @@ Collection of tutorials I have undertaken and found useful for producing climate
 
 ## Specialist Tutorials on Accessing Data:
 
+- [Copernicus Training](https://github.com/ecmwf-projects/copernicus-training) Series of notebooks training on accessing and visualising Copernicus CDS and CAMS data, including APIs and GIFs. 
+  - (*cdsapi, Xarray, Matplotlib, Cartopy, imageio*)
 - [NASA Coding Club](https://github.com/podaac/the-coding-club/blob/main/notebooks/Earthdata_webinar_20220727.ipynb) Notebook tutorial for accessing NASA sea level data from Amazon cloud.
   - (*AWS*)
-- [ESA CCI SST](https://surftemp.github.io/sst-data-tutorials/) Notebook tutorial for accessing ESA satellite SST data from Amazon cloud.
+- [ESA CCI SST](https://surftemp.github.io/sst-data-tutorials/) Individual notebook tutorial for accessing ESA satellite SST data from Amazon cloud.
   - (*AWS*)
-- [Pharos API](https://colab.research.google.com/drive/1WkIm8thDSWI8ENDlPdAGMnlhaZWG0Ch0?usp=sharing) Notebook tutorial for accessing Pharos Data Catalogue.
+- [Pharos API](https://colab.research.google.com/drive/1WkIm8thDSWI8ENDlPdAGMnlhaZWG0Ch0?usp=sharing) Individual notebook tutorial for accessing Pharos Data Catalogue.
   - (*Pharos API*)
-- [CarbonPlan CMIP-6](https://github.com/carbonplan/cmip6-downscaling/blob/main/notebooks/accessing_data_example.ipynb) Notebook accessing downscaled CMIP-6 data.
-- [CryoTEMPO-EOLIS](https://cryotempo-eolis.org/tutorials/) Notebooks accessing CryoSat elevation data.
+- [CarbonPlan CMIP-6](https://github.com/carbonplan/cmip6-downscaling/blob/main/notebooks/accessing_data_example.ipynb) Individual notebook accessing downscaled CMIP-6 data.
+- [CryoTEMPO-EOLIS](https://cryotempo-eolis.org/tutorials/) Two notebooks accessing CryoSat elevation data.
 
 ## Specialist Python Visualisation Resources:
 
