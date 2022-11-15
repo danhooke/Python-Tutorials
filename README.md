@@ -32,7 +32,7 @@ Collection of tutorials I have undertaken and example notebooks I have found use
 - [CryoTEMPO-EOLIS](https://cryotempo-eolis.org/tutorials/) Two notebooks accessing CryoSat elevation data.
 
 
-## Collections of Example Notebooks
+## Collections of Example Notebooks:
 - [Pangeo Notebooks](http://gallery.pangeo.io/index.html) Large, wide-ranging collection containing advanced notebooks on topics including CMIP6, LandSat and Cryosphere data.
 
 ## Specialist Python Visualisation Resources:
@@ -61,7 +61,7 @@ Collection of tutorials I have undertaken and example notebooks I have found use
 
 # Tutorial Assignments
 
-Assignment from the [Earth and Environmental Data Science Tutorial](https://earth-env-data-science.github.io/assignments/more_matplotlib.html) recreating target plots in Matplotlib, using prescribed data (often different from the original data).
+Assignment from the [Earth and Environmental Data Science Tutorial](https://earth-env-data-science.github.io/assignments/more_matplotlib.html) recreating target plots in Matplotlib, using prescribed data (often different from the original data). All credit to the authors (Ryan Abernathey, Kerry Key and Tim Crone).
 
 ## Line plots
 
