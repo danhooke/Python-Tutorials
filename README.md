@@ -3,7 +3,7 @@
 Collection of tutorials I have undertaken and found useful for producing climate change-related figures using Python.
 
 **Larger Tutorial Collections:**
-- [Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html) In-depth tutorial series including environments, key packages and parallel computing, including valuable assignments (shown below) to problem-solve independently. 
+- [Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html) In-depth tutorial series covering Python environments and key packages for analysis and visualisation, including valuable assignments (shown below) to problem-solve independently. 
   - (*Numpy, Pandas, Matplotlib, Xarray, Cartopy*)
 - [Earth Data Science](https://www.earthdatascience.org/)
 - [Copernicus Training](https://github.com/ecmwf-projects/copernicus-training) Series of notebooks training on accessing and visualising Copernicus CDS and CAMS data, including APIs and GIFs. 
