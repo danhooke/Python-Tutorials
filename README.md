@@ -118,4 +118,4 @@ Assignment from the [Earth and Environmental Data Science Tutorial](https://eart
 
 **My Attempt:**
 
-
+<img src="https://github.com/danhooke/Python-Tutorials/blob/main/Earthquakes%20Assignment.png?raw=true" width="600" />
