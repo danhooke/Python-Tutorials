@@ -32,6 +32,13 @@ Collection of tutorials I have undertaken and example notebooks I have found use
 - [CryoTEMPO-EOLIS](https://cryotempo-eolis.org/tutorials/) Two notebooks accessing CryoSat elevation data.
 - [Pangeo Notebooks](http://gallery.pangeo.io/index.html) Large, wide-ranging collection containing advanced notebooks on topics including CMIP6, LandSat and Cryosphere data.
 
+## Jupyter Books on Climate Change data
+
+- [ICESat-2](https://www.icesat-2-sea-ice-state.info/content/0_home.html) Arctic sea ice.
+- [Dust](https://dust.trainhub.eumetsat.int/docs/index.html) Dust Aerosol Detection, Monitoring and Forecasting.
+- [FANGS](https://fire.trainhub.eumetsat.int/docs/functions.html) Fire Applications with Next Generation Satellites.
+- [Ocean](https://github.com/rabernat/intro_to_physical_oceanography)
+
 ## Specialist Python Visualisation Resources:
 
 - [PyViz](https://pyviz.org/tools.html) Comprehensive list documenting all the visualisation packages in Python.
