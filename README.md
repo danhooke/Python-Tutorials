@@ -3,6 +3,7 @@
 Collection of tutorials I have undertaken and example notebooks I have found useful for producing climate change figures using Python.
 
 ## In-depth Tutorials:
+
 - [Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html) Tutorial series covering Python environments and key packages for analysis and visualisation, including valuable assignments (shown below) to problem-solve independently. 
   - (*Numpy, Pandas, Matplotlib, Xarray, Cartopy*)
 - [Pythia Foundations](https://foundations.projectpythia.org/landing-page.html) Tutorial on introductory and intermediate workflows for analysing climate change data using Python. Covers key libaries, and particularly good for GitHub.
@@ -11,6 +12,7 @@ Collection of tutorials I have undertaken and example notebooks I have found use
   - (*Xarray, Matplotlib, Pandas*)
 
 ## Full Geospatial Workflow Tutorials:
+
 - [Spatial Thoughts: Python Foundation for Spatial Analyse](https://courses.spatialthoughts.com/python-foundation.html) Python fundamentals, including APIs. 
   - (*Pandas, Geopandas, NumPy, RasterIO*)
 - [Spatial Thoughts: Mapping and Data Vizualization with Python](https://courses.spatialthoughts.com/python-dataviz.html) 
@@ -58,6 +60,7 @@ Collection of tutorials I have undertaken and example notebooks I have found use
   - (*Matplotlib, GeoPandas*)
 
 ## Video Tutorial Series:
+
 - [MetPy Mondays](https://www.youtube.com/playlist?list=PLQut5OXpV-0ir4IdllSt1iEZKTwFBa7kO) Large (200+) collection of videos on individual topics throughout processing and plotting geospatial data in python. Useful if you are stuck on something meteorological. 
   - (*Xarray, Cartopy, MetPy*)
 - [Climate Unboxed](https://www.youtube.com/channel/UC94xkaJn1NkxR4trAfVArbg) Series on acessing CDS API and analysing NetCDF files in Python.
