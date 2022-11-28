@@ -80,7 +80,7 @@ Collection of longer, in-depth training resources on climate data.
 
 # Tutorial Assignments
 
-Assignment from the [Earth and Environmental Data Science Tutorial](https://earth-env-data-science.github.io/assignments/more_matplotlib.html), with the objective of recreating **target plots** in Matplotlib, using prescribed data (often different from the original data). All credit to the authors (Ryan Abernathey, Kerry Key and Tim Crone).
+Assignment from the [Earth and Environmental Data Science Tutorial](https://earth-env-data-science.github.io/assignments/more_matplotlib.html). The objective was to produce **My Attempts** at recreating **Target Figures** using Matplotlib, Xarray and Cartopy. Data access was not part of this assignment (often different from data in the target figure). All credit to the authors (Ryan Abernathey, Kerry Key and Tim Crone).
 
 ## Line plots
 
