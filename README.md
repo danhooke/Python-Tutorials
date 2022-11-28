@@ -15,7 +15,7 @@ Collection of tutorials I have undertaken, focussed on accessing, processing and
 
 ## Full Geospatial Workflow Tutorials:
 
-- [Spatial Thoughts: Mapping and Data Vizualization with Python](https://courses.spatialthoughts.com/python-dataviz.html) In-depth guide on how to access and visualise geospatial data, preogressing from Matplotlib basics to interactive maps and apps.
+- [Spatial Thoughts: Mapping and Data Vizualization with Python](https://courses.spatialthoughts.com/python-dataviz.html) In-depth guide on how to access and visualise geospatial data, progressing from Matplotlib basics to interactive maps and apps.
   - (*Matplotlib, GeoPandas, Xarray, rioxarray, Cartopy, Folium, Streamlit, Leafmap*)
 - [Python Geospatial Tutorial](https://colab.research.google.com/drive/1B7gFBSr0eoZ5IbsA0lY8q3XL8n-3BOn4#scrollTo=sOFhBVx_fQcY) 'Basic', 'Intermediate' and 'Advanced' scripts covering automated downloading, in-depth manipulation and plotting of gridded data, culminating in producing a video. 
   - (*Xarray, Matplotlib, cv2*)
