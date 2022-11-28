@@ -1,6 +1,6 @@
 # Tutorials
 
-Collection of tutorials I have undertaken, focussed on processing and visualising climate change data using Python.
+Collection of tutorials I have undertaken, focussed on accessing, processing and visualising climate change data using Python.
 
 ## In-depth Tutorials:
 
