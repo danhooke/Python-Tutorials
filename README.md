@@ -24,7 +24,7 @@ Collection of tutorials I have undertaken, focussed on accessing, processing and
   
 ## Notebooks on Accessing Data:
 
-Specialist notebooks used to access climate change data.
+Specialist notebooks tutorials on accessing climate change data.
 
 - [NASA Coding Club](https://github.com/podaac/the-coding-club/blob/main/notebooks/Earthdata_webinar_20220727.ipynb) Individual notebook tutorial for accessing and basic plotting of NASA sea level data from Amazon cloud.
   - (*AWS*)
